@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Android1</string>
+    <string name="home_text">Hello GitHub Version 1</string>
 </resources>
