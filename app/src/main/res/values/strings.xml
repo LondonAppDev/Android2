@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Android1</string>
+    <string name="added_through_ssh">Added Through SSH</string>
 </resources>
